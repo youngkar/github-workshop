@@ -16,7 +16,7 @@ This repository contains all of the resources for my Intro to GitHub workshop, h
 
 
 ## Part 3: Fork and clone this repository
-*Even though you can view this repository, you don't have permission to add content to it. In this part, one member of your team will create a copy of this repository that you can add content to. If you get stuck, check out [this article](https://help.github.com/articles/fork-a-repo/) or call for help.*
+*Even though you can view this repository, you don't have permission to add content to it. In this part, one member of your team will create a copy of this repository that you can add content to. If you get stuck, check out [this article](https://help.github.com/articles/fork-a-repo/) or feel free to ask for help.*
 
 - One member in your team: Fork this repository by clicking on the “Fork” button in the top right.
 
@@ -25,7 +25,7 @@ This repository contains all of the resources for my Intro to GitHub workshop, h
 
   `git clone https://github.com/<teammate’s username>/github-workshop`
 
-  *This step creates a local copy of the repository on your computer, which has the same content as the online, or "remote", version does.*
+  *This step creates a local copy of the repository on your computer, which has the same content as the online, called "remote", version does.*
 
 
 ## Part 4: Add collaborators to a repository
@@ -35,9 +35,9 @@ This repository contains all of the resources for my Intro to GitHub workshop, h
 
 
 ## Part 5: Make some changes!
-*Everyone on your team now has a local repository set up! This folder on your computer mirrors the content of the remote repository. By adding some content to your local repository, you can send it to the remote repository.*
+*Everyone on your team now has a local repository set up. This folder on your computer mirrors the content of the remote repository. By adding some content to your local repository, you will be able to send it to the remote repository.*
 
-- Everyone in your team: Add however much content you want to the four directories: *motivational_quotes*, *wallpaper*, *code*, and *batman*. There are some examples in each of them to get you started but feel free to add anything!
+- Everyone in your team: Add however much content you want to the four directories: *motivational_quotes*, *wallpaper*, *code*, and *batman*. There are some examples in each of them to get you started but feel free to add anything.
 
 
 ## Part 6: Push your content to the remote repository
@@ -45,9 +45,9 @@ This repository contains all of the resources for my Intro to GitHub workshop, h
 
 - Everyone in your team: Run the following commands in the following order to send your changes to the remote repository. When you run these commands, read what Git tells you in response because you will probably be able to understand it! If you want to get a clearer idea of what these commands do, check out [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/) and scroll down a bit.
 
-  1. `git pull` Checks whether your local repo is up-to-date with your remote repo, and makes it up-to-date if it is not
+  1. `git pull` Checks whether your local repo is up-to-date with your remote repo, and makes it up-to-date if it is not.
 
-  2. `git add <filename>` or `git add *` Tells Git that you would like to stage a particular modified file to be uploaded, or that you would like to stage all modified files to be uploaded
+  2. `git add <filename>` or `git add *` Tells Git that you would like to stage a particular modified file to be uploaded, or that you would like to stage all modified files to be uploaded.
 
   3. `git status` Asks Git to show you the status of your modified files (how many of them are staged vs. unstaged). This is an optional step.
 
@@ -59,10 +59,10 @@ This repository contains all of the resources for my Intro to GitHub workshop, h
 
 
 ## Part 7: Open a pull request
-*Now that everyone has pushed their changes to the forked version of this repo, it’s time to merge all of your changes back into this original repository that you didn't have access to before.*
+*Now that everyone has pushed their changes to the forked version of this repo, it’s time to merge all of your changes back into the original repository that you didn't have access to before.*
 
 - One person in your team: On your forked repository page, click the “New pull request” button in the middle-left of the screen. Then click the green “Create pull request” button.
-- Let me know that your team opened a pull request and I'll approve it!
+- Let me know that your team opened a pull request and I'll approve it.
 - Refresh the original repository and see your changes there!
 
 
