@@ -1,12 +1,10 @@
 # GitHub Workshop
 
-This repository contains all of the resources for my Intro to GitHub workshop, hosted with BU’s Global App Initiative and Girls Who Code.
+This repository contains all of the resources for my Intro to GitHub workshop
 
 
 ## Part 1: Why Git and GitHub?
 - Powerpoint: [Why do we use Git?](WhyGit.pptx)
-- Example of branching: GAI’s new website, which is currently under development. Our network graph can be found [here](https://github.com/GlobalAppInitiative/globalappinitiative.github.io/network).
-
 
 ## Part 2: Set up Git and GitHub
 *Talk to the people around you and do the next few parts together in teams of 3-4:*
